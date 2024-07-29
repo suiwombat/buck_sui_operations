@@ -1,0 +1,6 @@
+# MACOs
+**/.DS_Store
+
+# Cargo
+.cargo/
+target/
