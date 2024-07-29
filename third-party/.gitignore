@@ -4,3 +4,6 @@
 # Cargo
 .cargo/
 target/
+
+# git in vendor dirs, we don't care
+vendor/**/.git
